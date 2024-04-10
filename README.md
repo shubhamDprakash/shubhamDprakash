@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubhamDprakash
 - 👀 I’m interested in Anime😁, finance and code
-- 🌱 I’m currently learning python and javascript
-- 💞️ I’m looking to collaborate on interesting stock market projects
+- 🌱 I’m an expert in python and javascript
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me - mail me at shubhamprakash702@gmail.com
 
 <!---
